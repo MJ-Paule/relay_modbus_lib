@@ -1,0 +1,5 @@
+[project]
+name = "MCU_Relay"
+version = "0.1"
+description = "Relay control library Waveshare 32 relays"
+dependencies = []
