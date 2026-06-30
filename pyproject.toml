@@ -1,5 +1,5 @@
 [project]
-name = "MCU_Relay"
+name = "relay_modbus_lib"
 version = "0.1"
 description = "Relay control library Waveshare 32 relays"
 dependencies = []
